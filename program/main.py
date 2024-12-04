@@ -14,7 +14,7 @@ async def main():
 
   # Message on start
   send_message("Bot launch successful")
-
+ 
   # Connect to client
   try:
     print("")
